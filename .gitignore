@@ -1,12 +1,14 @@
 .idea
 *.o
 *.pyc
+*.pyx
 *.npy
 *.ckpt
 *.tar
 *.out
 *.tar.gz
 *.so
+models/*
 experiments/logs/*
 experiments/eval/*
 data/cache/*
