@@ -8,6 +8,7 @@
 *.out
 *.tar.gz
 *.so
+dataset/*
 models/*
 experiments/logs/*
 experiments/eval/*
